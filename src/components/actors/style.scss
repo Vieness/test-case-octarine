@@ -2,10 +2,14 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
   text-align: center;
 
   &-item {
     border-radius: 5rem;
+    @media (max-width: 400px) {
+      max-width: 19rem;
+    }
   }
 
   &-img {
@@ -13,9 +17,17 @@
     height: 19rem;
     overflow: hidden;
     border-radius: 10rem;
+    @media (max-width: 450px) {
+      width: 12rem;
+      height: 12rem;
+    }
+    @media (max-width: 370px) {
+      width: 10rem;
+      height: 10rem;
+    }
   }
 
   &-title {
-    margin: 1.5rem;
+    margin: 1.5rem auto;
   }
 }

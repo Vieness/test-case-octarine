@@ -12,7 +12,7 @@ const Premiere = () => {
                         <img className={'openings-item--image'} src={opening} alt="Opening"/>
                     </div>
                     <div className="openings-item">
-                        <img className={'openings-item--image'} src={opening2} alt="Opening"/>
+                        <img className={'openings-item--image2'} src={opening2} alt="Opening"/>
                     </div>
                 </div>
             </div>

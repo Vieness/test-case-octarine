@@ -8,6 +8,13 @@
   max-width: 122.4rem;
   height: 27rem;
   margin: 0 auto;
+  @media (max-width: 768px) {
+    height: 20rem;
+  }
+  @media (max-width: 450px) {
+    text-align: center;
+    flex-direction: column;
+  }
 
   &-title {
     font-size: 6.4rem;
@@ -15,6 +22,20 @@
     line-height: 100%;
     max-width: 79rem;
     margin-right: 8.4rem;
+    @media (max-width: 1000px) {
+      font-size: 6rem;
+    }
+    @media (max-width: 800px) {
+      font-size: 5rem;
+    }
+    @media (max-width: 768px) {
+      font-size: 3rem;
+      margin: 2rem;
+    }
+    @media (max-width: 450px) {
+      font-size: 2rem;
+      margin-right: 0;
+    }
   }
 
   &-btn {
@@ -23,9 +44,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    @media (max-width: 450px) {
+      width: 100%;
+    }
   }
 
   &-section {
     margin: 12.1rem 0;
+    @media (max-width: 768px) {
+      margin: 8rem 0;
+    }
+    @media (max-width: 450px) {
+      margin: 3rem 0;
+    }
   }
 }

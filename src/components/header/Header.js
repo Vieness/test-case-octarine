@@ -25,6 +25,9 @@ const Header = () => {
                     <li className="navigation-icon">
                         <button className={'navigation-btn navigation-btn--user'}></button>
                     </li>
+                    <li className="navigation-menu">
+                        <button className={'navigation-btn navigation-btn--menu'}></button>
+                    </li>
                 </ul>
             </div>
         </header>
