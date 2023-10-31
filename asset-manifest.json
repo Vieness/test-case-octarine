@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-case-octarine/static/css/main.aab8a8ad.css",
+    "main.css": "/test-case-octarine/static/css/main.f6314f08.css",
     "main.js": "/test-case-octarine/static/js/main.54220cc0.js",
     "static/media/registration.png": "/test-case-octarine/static/media/registration.f6e1da5d5aca1ccf284d.png",
     "static/media/banner.png": "/test-case-octarine/static/media/banner.a58e03dcff017fd4021d.png",
@@ -40,11 +40,11 @@
     "index.html": "/test-case-octarine/index.html",
     "static/media/border.svg": "/test-case-octarine/static/media/border.38632527ab67d04f933b.svg",
     "static/media/play.svg": "/test-case-octarine/static/media/play.84b45aa28e603ffc6a98ccf93a74abaf.svg",
-    "main.aab8a8ad.css.map": "/test-case-octarine/static/css/main.aab8a8ad.css.map",
+    "main.f6314f08.css.map": "/test-case-octarine/static/css/main.f6314f08.css.map",
     "main.54220cc0.js.map": "/test-case-octarine/static/js/main.54220cc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.aab8a8ad.css",
+    "static/css/main.f6314f08.css",
     "static/js/main.54220cc0.js"
   ]
 }
