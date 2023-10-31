@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-case-octarine/static/css/main.7795025b.css",
-    "main.js": "/test-case-octarine/static/js/main.28932ff3.js",
+    "main.js": "/test-case-octarine/static/js/main.374b1136.js",
     "static/media/registration.png": "/test-case-octarine/static/media/registration.f6e1da5d5aca1ccf284d.png",
     "static/media/banner.png": "/test-case-octarine/static/media/banner.a58e03dcff017fd4021d.png",
     "static/media/Opening 1.jpg": "/test-case-octarine/static/media/Opening 1.fe3a5de287ac2b3fcac5.jpg",
@@ -41,10 +41,10 @@
     "static/media/border.svg": "/test-case-octarine/static/media/border.38632527ab67d04f933b.svg",
     "static/media/play.svg": "/test-case-octarine/static/media/play.84b45aa28e603ffc6a98ccf93a74abaf.svg",
     "main.7795025b.css.map": "/test-case-octarine/static/css/main.7795025b.css.map",
-    "main.28932ff3.js.map": "/test-case-octarine/static/js/main.28932ff3.js.map"
+    "main.374b1136.js.map": "/test-case-octarine/static/js/main.374b1136.js.map"
   },
   "entrypoints": [
     "static/css/main.7795025b.css",
-    "static/js/main.28932ff3.js"
+    "static/js/main.374b1136.js"
   ]
 }
