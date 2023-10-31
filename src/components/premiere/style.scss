@@ -1,0 +1,23 @@
+@import "src/index";
+
+.openings {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: $gradient-banner;
+  border-radius: 2rem;
+  margin: 9rem 0;
+
+  &-item {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10rem;
+
+    &--image {
+      border-radius: 2rem 0 0 2rem;
+    }
+  }
+}

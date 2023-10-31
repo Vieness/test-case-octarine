@@ -1,0 +1,21 @@
+.actors {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+
+  &-item {
+    border-radius: 5rem;
+  }
+
+  &-img {
+    width: 19rem;
+    height: 19rem;
+    overflow: hidden;
+    border-radius: 10rem;
+  }
+
+  &-title {
+    margin: 1.5rem;
+  }
+}

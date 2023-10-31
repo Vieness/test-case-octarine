@@ -1,0 +1,31 @@
+.registration {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../../access/registration/registration.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 122.4rem;
+  height: 27rem;
+  margin: 0 auto;
+
+  &-title {
+    font-size: 6.4rem;
+    font-weight: 700;
+    line-height: 100%;
+    max-width: 79rem;
+    margin-right: 8.4rem;
+  }
+
+  &-btn {
+    height: 5rem;
+    width: 14.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &-section {
+    margin: 12.1rem 0;
+  }
+}
