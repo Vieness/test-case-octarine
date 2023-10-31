@@ -7,7 +7,7 @@ const MainAd = () => {
     return (
         <section className={'section section-mainAd'}>
             <img className={'mainAd-image'} src={banner} alt="Banner"/>
-            <div className="container mainAd-container">
+            <div className="container">
                 <div className={'mainAd'}>
                     <h1 className="mainAd-title">Zack Snyder's Justice League</h1>
                     <div className={'mainAd-info'}>
